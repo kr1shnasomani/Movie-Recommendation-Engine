@@ -2,7 +2,11 @@
 The system offers personalized suggestions by analyzing plot summaries and metadata (cast, genres, directors). Used advanced techniques like **TF-IDF**, cosine similarity and content-based filtering to process and recommend from a dataset of 5,000+ movies efficiently.
 
 ## Execution Guide:
-
+1. Run the following command line in the terminal:
+   ```bash
+   pip install numpy pandas matplotlib scikit-learn
+   ```
+2. 
 
 ## Overview:
 This code implements a **Movie Recommendation System** using content-based filtering. It consists of two main recommendation approaches:
