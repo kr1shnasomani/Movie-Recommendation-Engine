@@ -6,7 +6,15 @@ The system offers personalized suggestions by analyzing plot summaries and metad
    ```bash
    pip install numpy pandas matplotlib scikit-learn
    ```
-2. 
+2. Download the dataset and copy paste the path of the `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` files in the code
+
+3. Enter the movie name whose recommendation you want in the `user_movie` cell
+
+4. There are two types of recommendation which you can get. One is based on the plot and the other one based on the metadata
+
+5. The following images shows how the output will look like:
+
+   
 
 ## Overview:
 This code implements a **Movie Recommendation System** using content-based filtering. It consists of two main recommendation approaches:
