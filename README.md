@@ -14,7 +14,8 @@ The system offers personalized suggestions by analyzing plot summaries and metad
 
 5. The following images shows how the output will look like:
 
-   
+   ![image](https://github.com/user-attachments/assets/2de1d762-fade-4285-ab3e-578e184ca808)
+ 
 
 ## Overview:
 This code implements a **Movie Recommendation System** using content-based filtering. It consists of two main recommendation approaches:
