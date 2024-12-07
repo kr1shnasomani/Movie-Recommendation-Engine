@@ -6,13 +6,15 @@ The system offers personalized suggestions by analyzing plot summaries and metad
    ```bash
    pip install numpy pandas matplotlib scikit-learn
    ```
-2. Download the dataset and copy paste the path of the `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` files in the code
+2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**)
 
-3. Enter the movie name whose recommendation you want in the `user_movie` cell
+3.Copy paste the path of the `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` files in the code
 
-4. There are two types of recommendation which you can get. One is based on the plot and the other one based on the metadata
+4. Enter the movie name whose recommendation you want in the `user_movie` cell
 
-5. The following images shows how the output will look like:
+5. There are two types of recommendation which you can get. One is based on the plot and the other one based on the metadata
+
+6. The following images shows how the output will look like:
 
    ![image](https://github.com/user-attachments/assets/2de1d762-fade-4285-ab3e-578e184ca808)
 
