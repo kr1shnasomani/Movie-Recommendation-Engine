@@ -8,7 +8,7 @@ The system offers personalized suggestions by analyzing plot summaries and metad
    ```
 2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**)
 
-3.Copy paste the path of the `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` files in the code
+3. Copy paste the path of the `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` files in the code
 
 4. Enter the movie name whose recommendation you want in the `user_movie` cell
 
