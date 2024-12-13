@@ -3,7 +3,7 @@ The system offers personalized suggestions by analyzing plot summaries and metad
 
 ## Execution Guide:
 1. Run the following command line in the terminal:
-   ```bash
+   ```
    pip install numpy pandas matplotlib scikit-learn
    ```
 2. Download the dataset (link to the dataset: **https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata**)
