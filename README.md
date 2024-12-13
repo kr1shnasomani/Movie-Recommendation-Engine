@@ -12,9 +12,9 @@ The system offers personalized suggestions by analyzing plot summaries and metad
 
 4. Enter the movie name whose recommendation you want in the `user_movie` cell
 
-5. There are two types of recommendation which you can get. One is based on the plot and the other one based on the metadata
+5. There are two types of recommendation which you can get, one is based on the plot and the other one based on the metadata
 
-6. The following images shows how the output will look like:
+## Model Prediction:
 
    ![image](https://github.com/user-attachments/assets/2de1d762-fade-4285-ab3e-578e184ca808)
 
