@@ -1,4 +1,4 @@
-# Movie Recommendation System
+<h1 align="center">SentimentScope</h1>
 The system offers personalized suggestions by analyzing plot summaries and metadata (cast, genres, directors). Used advanced techniques like **TF-IDF**, cosine similarity and content-based filtering to process and recommend from a dataset of 5,000+ movies efficiently.
 
 ## Execution Guide:
